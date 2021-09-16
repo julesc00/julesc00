@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @julesc00
-- 👀 I’m interested in working in Python/Django projects.
+- 👀 I’m interested in working on Python/Django projects.
 - 🌱 I’m currently learning DjangoRESTFramework.
 - 💞️ I’m looking to collaborate on I don't know yet.
 - 📫 How to reach me julesc003@gmail.com
