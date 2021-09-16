@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @julesc00
 - 👀 I’m interested in working on Python/Django projects.
 - 🌱 I’m currently learning DjangoRESTFramework.
-- 💞️ I’m looking to collaborate on I don't know yet.
+- 💞️ I’m looking to collaborate on projects that include AWS or GoogleCloud services and on DevOps.
 - 📫 How to reach me julesc003@gmail.com
 
 <!---
