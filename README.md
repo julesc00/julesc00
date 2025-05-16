@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @julesc00
-- 👀 I’m interested in working on Python/Django and AWS projects.
-- 🌱 I’m currently working with Django, AWS Serverless, Jenkins and Terraform.
+- 👀 I’m interested in working on backend with Python and AWS projects.
+- 🌱 I’m currently working with FastAPI, AWS Serverless, Jenkins and Terraform.
 - 💞️ I’m looking to collaborate on projects that include AWS or GoogleCloud services.
-- 🌱 I'm currently learning more about Terraform with AWS and Jenkins Declarative Syntax.
+- 🌱 I'm currently learning more about AWS Bedrock and LLMs.
 - 📫 How to reach me julesc003@gmail.com
 
 <!---
